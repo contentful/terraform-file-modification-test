@@ -1,5 +1,4 @@
-# IMPORTANT: Do not modify this file manually! It is sourced from a template: https://github.com/contentful/tfc-component-template
-# Modify it there and it will be synced to all repositories that use this template.
+# Trying to force a drift
 name: Lint
 on:
   push:
